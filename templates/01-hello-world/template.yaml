@@ -5,7 +5,7 @@ metadata:
   name: hello-world
   title: Hello World
 spec:
-  owner: muvaf/cloud-native-heroku
+  owner: pdettori/cloud-native-heroku
   type: service
 
   parameters:
